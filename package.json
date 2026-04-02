@@ -1,6 +1,6 @@
 {
-  "name": "@mfront/cli",
-  "version": "0.0.1",
+  "name": "mfront-cli",
+  "version": "0.0.2-alpha.0",
   "description": "mFront Command line Interface",
   "license": "Apache-2.0",
   "main": "src/index.ts",
@@ -56,7 +56,7 @@
     }
   },
   "keywords": [
-    "@mfront/cli",
+    "mfront-cli",
     "mfront",
     "mweb",
     "maintainable",
