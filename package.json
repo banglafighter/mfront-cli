@@ -1,6 +1,6 @@
 {
   "name": "mfront-cli",
-  "version": "0.0.5-alpha.17",
+  "version": "0.0.5-alpha.29",
   "description": "mFront Command line Interface",
   "scripts": {
     "build": "tsdown",
